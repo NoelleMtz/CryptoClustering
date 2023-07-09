@@ -37,9 +37,6 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
 ## Visualize and Compare the Results
 
-![Composite_Elbow](https://github.com/NoelleMtz/CryptoClustering/assets/123044294/36bd61cd-6411-4f19-8f89-4c3cd1235b95)
-![Composite_Clusters](https://github.com/NoelleMtz/CryptoClustering/assets/123044294/e1ff509b-d0f5-40db-b85e-7a8b9f8cb8b9)
-
 ### Answer the following question: 
 
   * **Question:** After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
