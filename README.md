@@ -35,6 +35,10 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
   * **Answer:** Yes, 4 was the better for the original data.
 
+## Cluster Cryptocurrencies with K-means Using the PCA Data
+![market_pca_plot](https://github.com/NoelleMtz/CryptoClustering/assets/123044294/f5944dbb-2e7d-4c3f-9996-1f29213280dd)
+
+
 ## Visualize and Compare the Results
 
 ### Answer the following question: 
